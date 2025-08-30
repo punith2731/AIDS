@@ -208,4 +208,5 @@ For support, please open an issue in the repository or contact the development t
 ## Acknowledgments
 - NSL-KDD dataset providers
 - Open-source community
+
 - Contributing developers 
